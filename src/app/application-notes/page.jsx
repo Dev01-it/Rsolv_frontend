@@ -38,13 +38,8 @@ export default function Application_notes(){
                     <table className="application_table">
                         <thead>
                             <tr>
-<<<<<<< HEAD
                                 <th className="application_table_th">Product Name</th>
                                 <th className="application_table_th">Column Name</th>
-=======
-                                <th className="application_table_th">title_name</th>
-                                <th className="application_table_th">column_name</th>
->>>>>>> 1a08801 (init commit)
                             </tr>
                         </thead>
                         <tbody>
