@@ -1,0 +1,17 @@
+@media (max-width: 768px){
+  /* ---------------------------------- home --------------------------------------- */
+   .q_i_bg{
+    height: 60vh;
+   }
+   .q_i_card{
+    width: 300px;
+    height: 300px;
+   }
+   .q_i_card h2{
+    font-size: 18px;
+   }
+    .mv_card{
+        width: 350px;
+        height: 300px;
+    }
+}
