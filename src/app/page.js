@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Banner from "./components/banner";
+import Banner from "./components/banners";
 import './css/animations.css'
 
 export default function Home() {
